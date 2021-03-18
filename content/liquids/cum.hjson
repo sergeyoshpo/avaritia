@@ -1,0 +1,8 @@
+name: CUM
+description: панты.
+temperature: 0
+flammability: 0
+heatCapacity:0
+viscosity:0
+explosiveness: 0
+color:"#FFFFFF"
