@@ -3,5 +3,5 @@ name:"avaritia"
 description:"этот мод заставит тебя попыхтеть avaritia"
 author:"CAT"
 minGameVersion:120
-version:"2.0"
+version:"2.0 alpha"
 dependencies:[]
