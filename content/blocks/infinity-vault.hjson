@@ -1,0 +1,12 @@
+name: "бесконечное хранилище"
+description: "бесконечно много места РS я немогу сделать его бесконечным"
+type: Vault
+itemCapacity:9999999
+hasItems:true
+health:10000
+size:2
+requirements:[
+infinity-item/1
+]
+category:effect
+research:vault

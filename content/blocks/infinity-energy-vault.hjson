@@ -1,0 +1,13 @@
+name:"бесконечный Аккумулятор"
+type:"Battery"
+size: 1
+description:"а че"
+hasPower:true
+buildCostMultiplier:0.675
+consumes:{
+powerBuffered: 99999999999
+}
+category:"power"
+requirements:[
+infinity-item/1
+]

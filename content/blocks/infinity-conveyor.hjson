@@ -1,0 +1,10 @@
+type: Conveyor
+name: бесконечный конвеер
+description: ""
+health:10000
+requirements:[
+infinity-item/1
+]
+category: distribution
+speed: 1000
+research: titanium-conveyor

@@ -1,0 +1,14 @@
+name:"бесконечный бур бур"
+description:"CAT топ"
+type:"Drill"
+size:1
+health:160
+tier:10
+drillTime:-1000000
+itemCapacity:10
+rotateSpeed:1000
+consumes:{}
+requirements:[
+infinity-item/1
+]
+category:"production"

@@ -1,0 +1,9 @@
+name:"бесконечная стена"
+description:"нуууу очень крепкий блок"
+type:Wall
+health:10000000000
+size:1
+requirements:[
+infinity-item/1
+]
+category:defense

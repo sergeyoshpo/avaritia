@@ -1,0 +1,20 @@
+type:GenericSmelter
+name:"бесконечный разделитель"
+description:"CAT топ"
+outputItem:mini-infinity/25
+size:8
+hasPower:true
+hasItems:true
+craftTime:3600
+updateEffect:steam
+itemCapacity:10
+consumes:{
+power:100
+items:{items:[
+infinity-item/1
+]}}
+requirements:[
+infinity-item/1
+]
+category:crafting
+research:compressor
