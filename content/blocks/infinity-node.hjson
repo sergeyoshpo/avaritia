@@ -1,0 +1,11 @@
+name:"бесконечный силовой узел"
+description:"епта"
+type:PowerNode
+health:9999999
+size:1
+maxNodes:1000
+laserRange:800
+requirements: [
+infinity-item/1
+]
+category:power

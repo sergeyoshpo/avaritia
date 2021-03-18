@@ -1,0 +1,30 @@
+name:"щит"
+description:"ааа"
+type:ForceProjector 
+health:100000000
+size:1
+phaseUseTime:100
+phaseRadiusBoost:100 
+radius:75 
+breakage:1000000000
+cooldownNormal:0
+cooldownLiquid:0
+cooldownBrokenBase:0 
+basePowerDraw:0
+canOverdrive:true
+consumes: {
+  power: 8
+
+   items: {
+   booster:true
+   optional:true
+    items: [
+    mini-infinity/1
+    ]
+  }
+}
+requirements:[
+infinity-item/1
+]
+category:effect
+research:force-projector

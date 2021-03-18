@@ -1,0 +1,22 @@
+type:GenericSmelter
+name:"завод кремния"
+description:"делает кремний из материи"
+outputItem:silicon/1
+size:2
+hasPower:true
+hasItems:true
+craftTime:20
+updateEffect:steam
+itemCapacity:10
+consumes:{
+power:10
+liquid: {
+liquid: matter
+amount: 0.05
+}
+items:{items:[]}}
+requirements:[
+infinity-item/1
+]
+category:crafting
+research:router

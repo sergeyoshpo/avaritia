@@ -1,0 +1,44 @@
+type: GenericCrafter
+name:"ультимативный компрессор"
+description:"CAT топ"
+outputItem: infinity-item/1
+size:14
+hasPower:true
+hasItems:true
+craftTime:3600
+updateEffect:steam
+itemCapacity:512000
+consumes:{
+power:1000
+items:{items:[
+coal/256000
+sand/256000
+copper/256000
+lead/256000
+metaglass/256000
+graphite/256000
+scrap/256000
+plastanium/256000
+surge-alloy/256000
+phase-fabric/256000
+blast-compound/256000
+pyratite/256000
+spore-pod/256000
+silicon/256000
+titanium/256000
+thorium/256000
+]}}
+requirements:[
+copper/13000
+lead/13000
+metaglass/13000
+graphite/13000
+plastanium/13000
+surge-alloy/13000
+phase-fabric/13000
+silicon/13000
+titanium/13000
+thorium/13000
+]
+category:crafting
+research:alloy-smelter

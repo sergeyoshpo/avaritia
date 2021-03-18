@@ -1,0 +1,17 @@
+type:massDriver
+name:"бесконечная катапульта"
+description:"без описания"
+hasPower: true
+size:1
+consumes: {
+power:0
+}
+itemCapacity:999999
+reloadTime:10
+buildTime:10
+range:10000
+requirements:[
+infinity-item/1
+]
+category:distribution
+research:router

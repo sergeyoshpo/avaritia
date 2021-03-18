@@ -1,0 +1,17 @@
+type:GenericSmelter
+name:"конденсатор времени (WIP)"
+description:"делает время. (ускорение времени любым способом не работает)"
+outputLiquid:time/1
+size:2
+hasPower:true
+hasLiquids: true
+craftTime:3600
+updateEffect:steam
+consumes: {
+power: 100
+}
+requirements:[
+infinity-item/1
+]
+category:crafting
+research:router
